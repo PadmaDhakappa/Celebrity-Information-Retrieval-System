@@ -11,18 +11,9 @@ This repository contains a Streamlit application integrated with the OpenAI API 
 
 ## Installation
 
-To run this project locally, you need to install the required dependencies:
-
-```bash
-pip install streamlit langchain
-
-
-Here's a suggested README snippet for your GitHub repository that contains the described code. This snippet explains the purpose, features, and basic usage of your project, which integrates the OpenAI API for a celebrity information retrieval system:
-
-markdown
-Copy code
-# Celebrity Information Retrieval System
-
+To run this project locally, you need to install the required dependencies: 
+  pip install streamlit langchain
+  
 ## Overview
 This repository contains a Streamlit application integrated with the OpenAI API to create a celebrity information retrieval system. The application provides an interface where users can search for celebrities and get detailed information including their date of birth and significant historical events that occurred around that time.
 
@@ -34,8 +25,6 @@ This repository contains a Streamlit application integrated with the OpenAI API 
 ## Installation
 
 To run this project locally, you need to install the required dependencies:
-
-```bash
 pip install streamlit langchain
 
 ##Configuration
